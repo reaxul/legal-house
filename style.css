@@ -4,6 +4,12 @@
     min-height:65vh;
     background-repeat: no-repeat;
 }
+.round-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 3px solid #FFFFFF;
+}
 /* custom negative margin  */
 .ms-n5{
     margin-left: -10px;
