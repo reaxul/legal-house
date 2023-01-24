@@ -4,7 +4,7 @@
     min-height:65vh;
     background-repeat: no-repeat;
 }
-
+/* custom negative margin  */
 .ms-n5{
     margin-left: -10px;
 }
