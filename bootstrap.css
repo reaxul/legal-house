@@ -6174,6 +6174,7 @@ textarea.form-control-lg {
   padding-bottom: 1.25rem;
   color: #fff;
   text-align: center;
+  height: 75%;
 }
 
 .carousel-dark .carousel-control-prev-icon,
